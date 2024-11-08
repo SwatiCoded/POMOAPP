@@ -33,7 +33,10 @@ flutter run
 ```
 
 ## Screenshots
+![IMG-20241107-WA0000](https://github.com/user-attachments/assets/a8a44291-2f77-4d59-b379-8f02bfff59e6)
 
+![1000028347](https://github.com/user-attachments/assets/b078ffa9-7ccd-443e-96fb-a0ca0a3782b8)
+![1000028346](https://github.com/user-attachments/assets/1ee288ff-aee7-4f01-8959-b922dc972d01)
 
 
 ## Contributing
