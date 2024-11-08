@@ -1,7 +1,7 @@
 
 # PomoApp: A Flutter Pomodoro Timer
 
-**A simple and effective Pomodoro Timer app built with Flutter.**
+**A simple and effective Pomodoro Timer app built with Flutter  designed with accessibility features on mind .**
 
 ## Features
 
@@ -9,7 +9,8 @@
 * **Customizable Intervals:** Set your preferred work and break durations.
 * **Notifications:** Receive timely reminders for session changes.
 * **Clean and Intuitive UI:** Enjoy a user-friendly interface that promotes focus.
-
+* **Text-to-Voice:**  Converts text content into spoken words, making it accessible to users with reading difficulties.
+ 
 ## Getting Started
 
 **1. Clone the Repository:**
