@@ -63,6 +63,5 @@ This project is licensed under the MIT License. You can find the full license de
 * You can use badges for dependencies, build status, or other relevant information to enhance the README's visual appeal and provide users with quick insights.
 
 By following these suggestions and incorporating the contact details in a dedicated section formatted for clarity, you can create a comprehensive and informative README file for your PomoApp repository.
-```
-This is the Markdown formatted README file. You can directly copy and paste this into your GitHub repository's README.md file.
+
 
