@@ -1,4 +1,4 @@
-```markdown
+
 # PomoApp: A Flutter Pomodoro Timer
 
 **A simple and effective Pomodoro Timer app built with Flutter.**
